@@ -1,0 +1,25 @@
+.Tippytop
+{
+    font-size: 70px;
+    color: cadetblue;
+    background-color: aliceblue;
+    font-weight: lighter;
+    justify-content: center;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+body {
+    background-color: #000;
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/636/602/407/painting-vikings-mythology-odin-wallpaper-preview.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+}
+.Recipe
+{
+    font-size: 70px;
+    color: cadetblue;
+    background-color: aliceblue;
+    font-weight: lighter;   
+    text-align: center;
+    font-family: cursive, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
